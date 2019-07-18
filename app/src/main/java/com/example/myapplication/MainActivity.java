@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     Bitmap bmImg = null;
     ImageView imageView= null;
     ProgressDialog p;
+    //jhj
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
